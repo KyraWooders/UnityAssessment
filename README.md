@@ -1,17 +1,17 @@
 # UnityAssessment
 
-#How to Play
+# How to Play
 
-##Controls
+## Controls
 
-###DeskTop
+### DeskTop
 Mouse(Left Click) - drop balls
 
-###Mobile
+### Mobile
 Touch - drop balls
 
-#Doc
+# Doc
 https://kyrawooders.github.io/UnityAssessment/Docs/
  
-#WebGL address
+# WebGL address
 https://kyrawooders.github.io/UnityAssessment/Player/
